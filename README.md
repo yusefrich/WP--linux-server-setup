@@ -19,9 +19,9 @@ Setup of a ubuntu server on amazon aws as a udacity project.
 ```
 * Application URL
 
-```
+
 http://54.167.22.7.xip.io
-```
+
 ## The stored application uses
 * Apache
 * Apache mod_wsgi
@@ -285,7 +285,7 @@ sudo service apache2 restart
  * [How To Deploy a Flask Application on an Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
   * [Patterns for flask](http://flask.pocoo.org/docs/0.12/patterns/packages/)
   * [Hide Git Repos on Public Sites](https://davidegan.me/hide-git-repos-on-public-sites/)
-  
+
 ### Other udacity students used as reference
  * [Tarja M](https://github.com/otsop110/fullstack-nanodegree-linux-server-configuration)
 * [Steve Wooding](https://github.com/SteveWooding/fullstack-nanodegree-linux-server-config)
